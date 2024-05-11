@@ -27,6 +27,9 @@ Print the parameters of the linear function.
 
 ## Program:
 ```python
+#Program to implement multivariate linear regression and predict the output.
+#Developed by: HIRUTHIK SUDHAKAR
+#Reg no : 212223240054
 import pandas as pd
 from sklearn import linear_model
 df = pd.read_csv("carsemission.csv")
